@@ -20,7 +20,7 @@ hr {
 }
 
 .faded {
-  color: rgba(255, 255, 255, 0.95); 
+  color: lightgrey; 
 }
 
 header.startup {
